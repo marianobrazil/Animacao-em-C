@@ -1,0 +1,13 @@
+Controles:
+
+w / Arrow UP = zoom in
+s / Arrow DOWN = zoom out
+a / Arrow RIGHT = rotacionar camera para esquerda
+d / Arrow LEFT = rotacionar camera pra direita
+
+q = camera up
+e = camera down
+
+space = turn on / off animation
+
+compiler options = -static -lopengl32 -lglu32 -lfreeglut
